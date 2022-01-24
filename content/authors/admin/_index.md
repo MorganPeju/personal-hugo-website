@@ -4,46 +4,38 @@ role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - "1"
+  - "2"
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MorganPeju
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/morganpeju/
+  - display:
+      header: false
+    link: pejumorgan@gmail.com
+    icon_pack: far
+    icon: envelope
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Polytechnique Montréal
+    url: https://www.polymtl.ca/programmes/programmes/option-ingenierie-et-analytique-des-donnees
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Data Science
+      institution: Polytechnique Montréal - Canada
+      year: 2022
+    - course: MS in Project Management and Innovation
+      institution: Université Paris 1 Panthéon Sorbonne (IAE Paris) - France
+      year: 2020
+    - course: Combined BSc/MSc in Mechanical Engineering
+      institution: Arts et Métiers - France
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
 ---
-
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
