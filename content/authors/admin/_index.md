@@ -1,23 +1,23 @@
 ---
 title: Morgan PEJU
-role: Professor of Artificial Intelligence
+role: Engineer and Student in Data Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - "1"
   - "2"
 social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/MorganPeju
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/morganpeju/
   - display:
       header: false
     link: pejumorgan@gmail.com
-    icon_pack: far
+    icon_pack: fas
     icon: envelope
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/morganpeju/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/MorganPeju
 organizations:
   - name: Polytechnique Montréal
     url: https://www.polymtl.ca/programmes/programmes/option-ingenierie-et-analytique-des-donnees
