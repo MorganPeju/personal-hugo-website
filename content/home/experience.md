@@ -45,15 +45,6 @@ experience:
     date_end: '2019-02-31'
     description: Taught electronic engineering and researched semiconductor physics.
   
-    - title: Treasurer and Project Manager
-    company: AMJE Lille
-    company_url: 'https://amje-lille.fr/'
-    company_logo: org-x
-    location: Lille, France
-    date_start: '2016-12-01'
-    date_end: '2018-06-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
 design:
-  columns: '3'
+  columns: '2'
 ---
