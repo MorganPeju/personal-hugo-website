@@ -56,7 +56,7 @@ experience:
     company_logo: org-gc
     location: Lille, France
     date_start: '2016-12-01'
-    date_end: '2018-06-31'
+    date_end: '2018-06-30'
     description: |2-
         Responsibilities include:
         
