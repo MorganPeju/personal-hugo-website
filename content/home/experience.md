@@ -36,33 +36,19 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Consultant in Financial Services - Intern
-    company: Wavestone
+  - title: blob - Intern
+    company: Natixis
     company_url: ''
-    company_logo: org-x
+    company_logo: org-gc
     location: Paris, France
-    date_start: '2018-09-01'
-    date_end: '2019-02-28'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
-    - title: Treasurer and Project Manager
-    company: AMJE Lille
-    company_url: 'https://amje-lille.fr/'
-    company_logo: org-x
-    location: Lille, France
-    date_start: '2016-12-01'
-    date_end: '2018-06-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
-     - title: Aircraft Worker - Intern
-    company: Safran Aircraft Engines
-    company_url: ''
-    company_logo: org-x
-    location: Villaroche, France
-    date_start: '2017-04-01'
-    date_end: '2017-04-30'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    date_start: '2019-09-01'
+    date_end: '2020-09-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 design:
   columns: '2'
 ---
