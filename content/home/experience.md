@@ -42,9 +42,27 @@ experience:
     company_logo: org-x
     location: Paris, France
     date_start: '2018-09-01'
-    date_end: '2019-02-31'
+    date_end: '2019-02-28'
     description: Taught electronic engineering and researched semiconductor physics.
-  
+    
+    - title: Treasurer and Project Manager
+    company: AMJE Lille
+    company_url: 'https://amje-lille.fr/'
+    company_logo: org-x
+    location: Lille, France
+    date_start: '2016-12-01'
+    date_end: '2018-06-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+     - title: Aircraft Worker - Intern
+    company: Safran Aircraft Engines
+    company_url: ''
+    company_logo: org-x
+    location: Villaroche, France
+    date_start: '2017-04-01'
+    date_end: '2017-04-30'
+    description: Taught electronic engineering and researched semiconductor physics.
+
 design:
   columns: '2'
 ---
