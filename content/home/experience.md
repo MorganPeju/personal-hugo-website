@@ -35,7 +35,16 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
+
+  - title: Consultant in Financial Services - Intern
+    company: Wavestone
+    company_url: ''
+    company_logo: org-x
+    location: Paris, France
+    date_start: '2018-09-01'
+    date_end: '2019-02-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
 design:
   columns: '2'
 ---
