@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Digital Project Manager - Intern
     company: Natixis
-    company_url: ''
+    company_url: 'https://www.natixis.com/'
     company_logo: org-gc
     location: Paris, France
     date_start: '2019-09-01'
@@ -38,7 +38,7 @@ experience:
 
   - title: Consultant in Financial Services - Intern
     company: Wavestone
-    company_url: ''
+    company_url: 'https://www.wavestone.com/'
     company_logo: org-gc
     location: Paris, France
     date_start: '2018-09-01'
@@ -66,7 +66,7 @@ experience:
         
   - title: Aircraft Worker - Intern
     company: Safran Aircraft Engines
-    company_url: ''
+    company_url: 'https://www.safran-group.com/fr/societes/safran-aircraft-engines'
     company_logo: org-x
     location: Villaroche, France
     date_start: '2017-04-01'
