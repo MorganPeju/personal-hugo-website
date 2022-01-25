@@ -54,11 +54,11 @@ experience:
         Mission : Audit of factoring contracts - Natixis Factor
         
         Achievements :
-       
         * Processes definition
         * Development of management and reporting tools (VBA)
         
         Mission: Testing of banking applications - La Banque Postale
+ 
         Achievements:
         * Improvement and development of monitoring and reporting tools (VBA)
         * Realization of tests of the application
@@ -74,13 +74,11 @@ experience:
     date_start: '2016-12-01'
     date_end: '2018-06-30'
     description: |2-
-    
         Achievements :
-     
-          * Reorganization of the association, recruitment of a team of 15 people
-          * Association management, budget management, accounting (Turnover 15k€ in a year)
-          * Project management, recruitment, contract negotiation
-          * Benchmark on innovation processes for Alstom
+        Reorganization of the association, recruitment of a team of 15 people
+        Association management, budget management, accounting (Turnover 15k€ in a year)
+        Project management, recruitment, contract negotiation
+        Benchmark on innovation processes for Alstom
     
        
   - title: Aircraft Worker - Intern
