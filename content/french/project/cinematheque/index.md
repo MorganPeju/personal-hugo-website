@@ -55,8 +55,9 @@ Les viz doivent répondre à la question principale "Comment ont évolué les ge
 
                                          -----
 
-**Choix des visualisations**
+**Extrait des visualisations**
 
+{{< gallery album="cinematheque-viz" resize_options="200x200" >}}
 
 [>> Site du projet <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
