@@ -1,8 +1,11 @@
 ---
-title: Example Project
+title: L’évolution des genres cinématographiques
 summary: An example of using the in-built project page.
 tags:
 - Viz
+- Python
+- Web
+- Cinema
 date: "2021-04-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -13,10 +16,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url:
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +33,24 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+![screen reader text](image.jpg "caption")
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Au fil de l’histoire, le cinéma s’est affirmé parmi les arts du spectacle et occupe aujourd’hui une place prépondérante dans la culture. Considérées comme mémoire culturelle, les oeuvres cinématographiques présentent des caractéristiques et métriques complexes qui sont
+compliquées à suivre au cours du temps. En général, on distingue plusieurs catégories :
+action, comédie, drame, fantastique, science-fiction, guerre, etc. Le genre cinématographique n’est pas exclusif et il est ardu de limiter un film à un unique genre. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+**Objectif du projet** - Retracer l’évolution des genres cinématographiques au cours du temps
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+*Sources des données* - Cinémathèque Québécoise
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+*Outils* - Python, Plotly, Github, Heroku
+
+En équipe et en collaboration avec la Cinémathèque Québécoise nous avons souhaité mettre en avant le contenu de son catalogue à travers différentes visualisations. A travers ce projet nous pensons avoir contribué à apporter des clés d’analyse et de compréhension. 
+
+Pour cela, nous avons développé un certain nombre de visualisations pour répondre à notre problématique. Le rendu a été pensé comme un site web "scrolly-telling". C’est par l’utilisation de graphiques interactifs que l’utilisateur peut explorer l’évolution des genres du cinéma sous plusieurs aspects, notamment selon les types de production (film, court métrage, TV, etc.) et les réalisateur.ice.s/acteur.ice.s récompensé.e.s . Une visualisation des genres cinématographiques selon la localisation géographique a également été effectuée, permettant ainsi de mener une investigation sur la disparité des genres à l’échelle mondiale. Ainsi, cet outil permet en évidence le dynamisme des oeuvres cinématographiques à travers le temps. 
+
+[I'm an external link](https://inf8808-cinematheque-final.herokuapp.com/)
+
+
+
+
