@@ -25,7 +25,7 @@ experience:
   - title: Digital Project Manager - Intern
     company: Natixis
     company_url: 'https://www.natixis.com/'
-    company_logo: org-gc
+    company_logo: natixis
     location: Paris, France
     date_start: '2019-09-01'
     date_end: '2020-09-01'
@@ -59,7 +59,7 @@ experience:
   - title: Treasurer and Project Manager
     company: AMJE Lille
     company_url: 'https://amje-lille.fr/'
-    company_logo: org-gc
+    company_logo: amje
     location: Lille, France
     date_start: '2016-12-01'
     date_end: '2018-06-30'
@@ -75,7 +75,7 @@ experience:
   - title: Aircraft Worker - Intern
     company: Safran Aircraft Engines
     company_url: 'https://www.safran-group.com/fr/societes/safran-aircraft-engines'
-    company_logo: org-x
+    company_logo: safran
     location: Villaroche, France
     date_start: '2017-04-01'
     date_end: '2017-04-30'
