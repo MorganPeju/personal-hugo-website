@@ -6,6 +6,10 @@ title: Main Skills
 subtitle: null
 feature:
   - description: null
+    icon: users-cog
+    icon_pack: fas
+    name: Project Management
+  - description: null
     icon: python
     icon_pack: fab
     name: Python
@@ -13,9 +17,5 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: null
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
 widget_id: skills
 ---
