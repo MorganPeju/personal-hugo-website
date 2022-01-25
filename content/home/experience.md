@@ -30,8 +30,8 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-09-01'
     description: |2-
+    
         Mission : Manage Data and Artificial Intelligence projects
-        
         Achievements:
         
         * Setting up of ideation workshops and identification of partners
@@ -51,8 +51,8 @@ experience:
     date_start: '2018-09-01'
     date_end: '2019-02-28'
     description: |2-
+    
         Mission : Audit of factoring contracts - Natixis Factor
-        
         Achievements :
         * Processes definition
         * Development of management and reporting tools (VBA)
@@ -74,11 +74,12 @@ experience:
     date_start: '2016-12-01'
     date_end: '2018-06-30'
     description: |2-
+    
         Achievements :
-        Reorganization of the association, recruitment of a team of 15 people
-        Association management, budget management, accounting (Turnover 15k€ in a year)
-        Project management, recruitment, contract negotiation
-        Benchmark on innovation processes for Alstom
+        * Reorganization of the association, recruitment of a team of 15 people
+        * Association management, budget management, accounting (Turnover 15k€ in a year)
+        * Project management, recruitment, contract negotiation
+        * Benchmark on innovation processes for Alstom
     
        
   - title: Aircraft Worker - Intern
