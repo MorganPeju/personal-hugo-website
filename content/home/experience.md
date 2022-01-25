@@ -32,9 +32,11 @@ experience:
     description: |2-
         Mission : Manage Data and Artificial Intelligence projects
         Achievements:
+        
         * Setting up of ideation workshops and identification of partners
         * Selection of projects based on a feasibility study
         * Monitoring of project industrialization
+        
         At Natixis Payments Solutions:
         * Identification of data science use cases with payment data
         * Studies based on payment data (Business Intelligence and Data Visualization)
@@ -50,8 +52,10 @@ experience:
     description: |2-
         Mission : Audit of factoring contracts - Natixis Factor
         Achievements :
+       
         * Processes definition
         * Development of management and reporting tools (VBA)
+        
         Mission: Testing of banking applications - La Banque Postale
         Achievements:
         * Improvement and development of monitoring and reporting tools (VBA)
@@ -60,19 +64,7 @@ experience:
         * Benchmarks: consumer credit, digital services of banking applications banking applications
         * Study on the impacts of Brexit on corporate and investment banks investment banks
     
-  - title: Treasurer and Project Manager
-    company: AMJE Lille
-    company_url: 'https://amje-lille.fr/'
-    company_logo: org-gc
-    location: Lille, France
-    date_start: '2016-12-01'
-    date_end: '2018-06-30'
-    description: |2-
-          Achievements:
-          * Reorganization of the association, recruitment of a team of 15 people
-          * Association management, budget management, accounting (Turnover 15k€ in a year)
-          * Project management, recruitment, contract negotiation
-          * Benchmark on innovation processes for Alstom
+
         
   - title: Aircraft Worker - Intern
     company: Safran Aircraft Engines
