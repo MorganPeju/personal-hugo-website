@@ -5,7 +5,7 @@
 
 title: Morgan Péju # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: ''© {2022} Morgan Péju' 
+copyright: '© {2022} Morgan Péju' 
 # Footer text, e.g. '© {year} Me'
 
 ############################
