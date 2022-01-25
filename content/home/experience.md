@@ -42,7 +42,7 @@ experience:
   - title: Consultant in Financial Services - Intern
     company: Wavestone
     company_url: 'https://www.wavestone.com/'
-    company_logo: org-gc
+    company_logo: wavestone
     location: Paris, France
     date_start: '2018-09-01'
     date_end: '2019-02-28'
