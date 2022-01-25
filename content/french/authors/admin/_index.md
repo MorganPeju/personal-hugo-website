@@ -30,7 +30,7 @@ education:
     - course: Master 2 en Management de projets et Innovation
       institution: Université Paris 1 Panthéon Sorbonne (IAE Paris) - France
       year: 2020
-    - course: Diplômé d'ingénieur généraliste
+    - course: Diplôme d'Ingénieur généraliste
       institution: Arts et Métiers ParisTech - France
       year: 2019
 email: ""
