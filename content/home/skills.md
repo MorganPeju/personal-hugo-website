@@ -28,7 +28,35 @@ feature:
   icon: r-project
   icon_pack: fab
   name: Python
- 
+ - description: 
+  icon: r-project
+  icon_pack: fab
+  name: Jira
+ - description: 
+  icon: r-project
+  icon_pack: fab
+  name: PowerBI
+  - description: 
+  icon: r-project
+  icon_pack: fab
+  name: Plotly
+  - description: 
+  icon: r-project
+  icon_pack: fab
+  name: VBA
+  - description: 
+  icon: r-project
+  icon_pack: fab
+  name: HTML
+  - description: 
+  icon: r-project
+  icon_pack: fab
+  name: CSS
+  - description: 
+  icon: r-project
+  icon_pack: fab
+  name: Semantic Web
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
