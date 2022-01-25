@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Expérience
 subtitle:
 
 # Date format for experience
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Digital Project Manager - Intern
+  - title: Chef de projets digitaux - Alternance
     company: Natixis
     company_url: 'https://www.natixis.com/'
     company_logo: natixis
@@ -31,15 +31,15 @@ experience:
     date_end: '2020-09-01'
     description: |2- 
         Réalisations:
-        * Managing Data and Artificial Intelligence projects
-        * Setting up of ideation workshops and identification of partners
-        * Selection of projects based on a feasibility study
-        * Monitoring of project industrialization
-        * Identification of data science use cases with payment data
-        * Studies based on payment data (Business Intelligence and Data Visualization)
-        * Mock-up of an application solution for merchant customers
+        * Suivi des projets Data et d’Intelligence Artificielle
+        * Mise en place d'ateliers d'idéation et identification de partenaires
+        * Sélection des projets sur la base d'une étude de faisabilité
+        * Suivi de l'industrialisation des projets
+        * Identification de cas d’usages data science avec des données de paiements
+        * Études basées sur les données de paiements (Business Intelligence et Data Visualization)
+        * Maquettage d’une solution applicative pour les clients commerçants
 
-  - title: Consultant in Financial Services - Intern
+  - title: Consultant en services financiers - Stage
     company: Wavestone
     company_url: 'https://www.wavestone.com/'
     company_logo: wavestone
@@ -47,16 +47,16 @@ experience:
     date_start: '2018-09-01'
     date_end: '2019-02-28'
     description: |2-
-        Achievements :
-        * Audit of factoring contracts (Natixis Factor)
-        * Testing of banking applications (La Banque Postale)
-        * Improvement and development of monitoring and reporting tools (VBA)
+        Réalisations :
+        * Audit de contrats d’affacturage (Natixis Factor)
+        * Test d’applications bancaires (La Banque Postale)
+        * Amélioration et développement d’outils de pilotage et de reporting (VBA)
         
-        Internal contributions:
-        * Benchmarks: consumer credit, digital services of banking applications banking applications
-        * Study on the impacts of Brexit on corporate and investment banks investment banks
-    
-  - title: Treasurer and Project Manager
+        Contributions internes:
+        * Benchmarks: rédit à la consommation, services digitaux d’applications bancaires
+        * Étude sur les impacts du Brexit sur les banques de financement et d’investissement
+
+  - title: Trésorier et Chef de projets
     company: AMJE Lille
     company_url: 'https://amje-lille.fr/'
     company_logo: amje
@@ -65,14 +65,14 @@ experience:
     date_end: '2018-06-30'
     description: |2-
     
-        Achievements :
-        * Reorganization of the association, recruitment of a team of 15 people
-        * Association management, budget management, accounting (turnover: 15k€ in a year)
-        * Project management, recruitment, contract negotiation
-        * Benchmark on innovation processes for Alstom
+        Réalisations :
+        * Refonte de l’association, recrutement d’une équipe de 15 personnes
+        * Gestion associative, gestion de budget, comptabilité (CA: 15k€ sur un an)
+        * Pilotage de projets, recrutement, négociation de contrats
+        * Benchmark sur les processus d’innovation pour Alstom
     
        
-  - title: Aircraft Worker - Intern
+  - title: Opérateur polyvalent - Stage
     company: Safran Aircraft Engines
     company_url: 'https://www.safran-group.com/fr/societes/safran-aircraft-engines'
     company_logo: safran
@@ -80,11 +80,11 @@ experience:
     date_start: '2017-04-01'
     date_end: '2017-04-30'
     description: |2-
-      Mission : Participate in the assembly operations of civil and military aircraft engines
-      Achievements:
-      * Assembly operations
-      * Automation of production planning (VBA)
-      * Implementation of areas dedicated to Lean Management
+      Mission : Participer aux opérations de montage de moteurs d’avions civils et militaires
+      Réalisations:
+      * Opérations d’assemblage
+      * Automatisation des planning de production (VBA)
+      * Mise en place d’espaces dédiés au Lean Management
       
 design:
   columns: '2'
