@@ -53,6 +53,12 @@ Les viz doivent répondre à la question principale "Comment ont évolué les ge
 
 ![Where is my image ?](projet-cinematheque-question.png "Questions auxquelles répondent les visualisations")
 
+                                         -----
+
+**Choix des visualisations**
+
+{{< gallery album="cinematheque-viz" >}}
+
 [>> Site du projet <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
 *Sources des données - Cinémathèque Québécoise*
