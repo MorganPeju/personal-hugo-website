@@ -30,7 +30,7 @@ education:
       institution: Université Paris 1 Panthéon Sorbonne (IAE Paris) - France
       year: 2020
     - course: Combined BSc/MSc in Mechanical Engineering
-      institution: Arts et Métiers - France
+      institution: Arts et Métiers ParisTech - France
       year: 2019
 email: ""
 superuser: true
