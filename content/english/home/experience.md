@@ -31,13 +31,13 @@ experience:
     date_end: '2020-09-01'
     description: |2- 
         Achievements:
-        * Managing Data and Artificial Intelligence projects
-        * Setting up of ideation workshops and identification of partners
-        * Selection of projects based on a feasibility study
-        * Monitoring of project industrialization
-        * Identification of data science use cases with payment data
-        * Studies based on payment data (Business Intelligence and Data Visualization)
-        * Mock-up of an application solution for merchant customers
+        * Manage Data and Artificial Intelligence projects
+        * Set up of ideation workshops and identification of partners
+        * Select of projects based on a feasibility study
+        * Monitor of project industrialization
+        * Identify data science use cases with payment data
+        * Develop studies based on payment data (Business Intelligence and Data Visualization)
+        * Design a mock-up of an application for merchant customers
 
   - title: Consultant in Financial Services - Intern
     company: Wavestone
