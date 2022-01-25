@@ -30,14 +30,11 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-09-01'
     description: |2-
-    
         Mission : Manage Data and Artificial Intelligence projects
-        
         Achievements:
         * Setting up of ideation workshops and identification of partners
         * Selection of projects based on a feasibility study
         * Monitoring of project industrialization
-        
         At Natixis Payments Solutions:
         * Identification of data science use cases with payment data
         * Studies based on payment data (Business Intelligence and Data Visualization)
