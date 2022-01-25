@@ -1,11 +1,12 @@
 ---
 title: Morgan Péju
 role: Ingénieur x Étudiant en Science des données
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Ingénieur spécialisé en science des données et entrepreneuriat .
 interests:
-  - "1"
-  - "2"
+  - "Science des données"
+  - "Écologie et Low-Tech"
+  - "Sports"
+  - "Cinéma"
 social:
   - display:
       header: false
@@ -26,7 +27,7 @@ education:
     - course: Maîtrise en Science des données
       institution: Polytechnique Montréal - Canada
       year: 2022
-    - course: Master 2 en Management de projet et Innovation
+    - course: Master 2 en Management de projets et Innovation
       institution: Université Paris 1 Panthéon Sorbonne (IAE Paris) - France
       year: 2020
     - course: Diplômé d'ingénieur généraliste
