@@ -25,37 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 
-  icon: python
+  icon: r-project
   icon_pack: fab
   name: Python
- - description: 
-  icon: python
-  icon_pack: fab
-  name: Jira
- - description: 
-  icon: python
-  icon_pack: fab
-  name: PowerBI
-  - description: 
-  icon: python
-  icon_pack: fab
-  name: Plotly
-  - description: 
-  icon: python
-  icon_pack: fab
-  name: VBA
-  - description: 
-  icon: python
-  icon_pack: fab
-  name: HTML
-  - description: 
-  icon: python
-  icon_pack: fab
-  name: CSS
-  - description: 
-  icon: python
-  icon_pack: fab
-  name: Semantic Web
  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
