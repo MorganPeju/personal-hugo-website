@@ -32,8 +32,8 @@ experience:
     description: |2-
     
         Mission : Manage Data and Artificial Intelligence projects
-        Achievements:
         
+        Achievements:
         * Setting up of ideation workshops and identification of partners
         * Selection of projects based on a feasibility study
         * Monitoring of project industrialization
@@ -53,12 +53,13 @@ experience:
     description: |2-
     
         Mission : Audit of factoring contracts - Natixis Factor
+        
         Achievements :
         * Processes definition
         * Development of management and reporting tools (VBA)
         
+        
         Mission: Testing of banking applications - La Banque Postale
- 
         Achievements:
         * Improvement and development of monitoring and reporting tools (VBA)
         * Realization of tests of the application
@@ -77,7 +78,7 @@ experience:
     
         Achievements :
         * Reorganization of the association, recruitment of a team of 15 people
-        * Association management, budget management, accounting (Turnover 15k€ in a year)
+        * Association management, budget management, accounting (turnover: 15k€ in a year)
         * Project management, recruitment, contract negotiation
         * Benchmark on innovation processes for Alstom
     
