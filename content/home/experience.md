@@ -30,11 +30,15 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-09-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Mission : Manage Data and Artificial Intelligence projects
+        Achievements:
+        * Setting up of ideation workshops and identification of partners
+        * Selection of projects based on a feasibility study
+        * Monitoring of project industrialization
+        At Natixis Payments Solutions:
+        * Identification of data science use cases with payment data
+        * Studies based on payment data (Business Intelligence and Data Visualization)
+        * Mock-up of an application solution for merchant customers
 
   - title: Consultant in Financial Services - Intern
     company: Wavestone
@@ -44,11 +48,21 @@ experience:
     date_start: '2018-09-01'
     date_end: '2019-02-28'
     description: |2-
-        Responsibilities include:
+        Mission : Audit of factoring contracts - Natixis Factor
+        Achievements :
+        * Processes definition
+        * Development of management and reporting tools (VBA)
         
-        * Analysing
-        * Modelling
-        * Deploying
+        Mission: Testing of banking applications - La Banque Postale
+        Achievements:
+        * Improvement and development of monitoring and reporting tools (VBA)
+        * Realization of tests of the application
+        
+        Internal contributions to the firm:
+        * Benchmarks: consumer credit, digital services of banking applications banking applications
+        * Study on the impacts of Brexit on corporate and investment banks investment banks
+
+Translated with www.DeepL.com/Translator (free version)
         
   - title: Treasurer and Project Manager
     company: AMJE Lille
@@ -58,11 +72,11 @@ experience:
     date_start: '2016-12-01'
     date_end: '2018-06-30'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+          Achievements:
+          * Reorganization of the association, recruitment of a team of 15 people
+          * Association management, budget management, accounting (Turnover 15k€ in a year)
+          * Project management, recruitment, contract negotiation
+          * Benchmark on innovation processes for Alstom
         
   - title: Aircraft Worker - Intern
     company: Safran Aircraft Engines
@@ -72,11 +86,11 @@ experience:
     date_start: '2017-04-01'
     date_end: '2017-04-30'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+      Mission : Participate in the assembly operations of civil and military aircraft engines
+      Achievements:
+      * Assembly operations
+      * Automation of production planning (VBA)
+      * Implementation of areas dedicated to Lean Management
 design:
   columns: '2'
 ---
