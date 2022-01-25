@@ -29,13 +29,12 @@ experience:
     location: Paris, France
     date_start: '2019-09-01'
     date_end: '2020-09-01'
-    description: |2-
-        Mission : Manage Data and Artificial Intelligence projects
+    description: |2- 
         Achievements:
+        * Managing Data and Artificial Intelligence projects
         * Setting up of ideation workshops and identification of partners
         * Selection of projects based on a feasibility study
         * Monitoring of project industrialization
-        At Natixis Payments Solutions:
         * Identification of data science use cases with payment data
         * Studies based on payment data (Business Intelligence and Data Visualization)
         * Mock-up of an application solution for merchant customers
@@ -48,19 +47,10 @@ experience:
     date_start: '2018-09-01'
     date_end: '2019-02-28'
     description: |2-
-    
-        Mission : Audit of factoring contracts - Natixis Factor
-        
         Achievements :
-        * Processes definition
-        * Development of management and reporting tools (VBA)
-        
-        
-        Mission: Testing of banking applications - La Banque Postale
-        
-        Achievements:
+        * Audit of factoring contracts (Natixis Factor)
+        * Testing of banking applications (La Banque Postale)
         * Improvement and development of monitoring and reporting tools (VBA)
-        * Realization of tests of the application
         
         Internal contributions:
         * Benchmarks: consumer credit, digital services of banking applications banking applications
