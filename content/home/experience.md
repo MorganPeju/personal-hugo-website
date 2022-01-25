@@ -60,9 +60,11 @@ experience:
         
         
         Mission: Testing of banking applications - La Banque Postale
+        
         Achievements:
         * Improvement and development of monitoring and reporting tools (VBA)
         * Realization of tests of the application
+        
         Internal contributions:
         * Benchmarks: consumer credit, digital services of banking applications banking applications
         * Study on the impacts of Brexit on corporate and investment banks investment banks
