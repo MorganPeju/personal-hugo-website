@@ -1,6 +1,6 @@
 ---
 title: Morgan Péju
-role: Engineer and Student in Data Science
+role: Engineer x Student in Data Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
