@@ -33,7 +33,7 @@ url_video: ""
 slides: example
 ---
 
-![screen reader text](image.jpg "caption")
+![screen reader text](image.png "caption")
 
 Au fil de l’histoire, le cinéma s’est affirmé parmi les arts du spectacle et occupe aujourd’hui une place prépondérante dans la culture. Considérées comme mémoire culturelle, les oeuvres cinématographiques présentent des caractéristiques et métriques complexes qui sont
 compliquées à suivre au cours du temps. En général, on distingue plusieurs catégories :
