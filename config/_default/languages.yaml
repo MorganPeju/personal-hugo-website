@@ -6,7 +6,7 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/english
 
 # Uncomment the lines below to configure your website in a second language.
 fr:
@@ -15,8 +15,17 @@ fr:
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 10
+      - name: Projets
+        url: '#projects'
+        weight: 20
+      - name: Expérience
+        url: '#experience'
+        weight: 30
+      - name: Contact
+        url: '#contact'
+        weight: 40
