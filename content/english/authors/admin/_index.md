@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: pejumorgan@gmail.com
+    link: mailto:pejumorgan@gmail.com
     icon_pack: fas
     icon: envelope
   - icon: linkedin
