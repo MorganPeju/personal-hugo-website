@@ -37,4 +37,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ingénieur généraliste diplômé des Arts et Métiers ParisTech en 2019, j'ai ensuite poursuivi mes études en management de projets en alternance à l'IAE Paris et Natixis. A travers ces expériences, j'ai travaillé au pilotage de projets d'intelligence artificielle et écrit un mémoire sur l'enjeu des banques à évoluer vers une stratégie orientée sur les données. 
+Après une volonté de spécialisation technique, je me suis installé au Canada où je termine actuellement une maîtrise en science des données à Polytechnique Montréal.
+Vous trouverez sur ce site un résumé de mes différents projets informatiques. 
