@@ -37,4 +37,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In 2019, I graduated with a combined BSc/MSc in Mechanical Engineering from Arts et Métiers ParisTech. I then pursued my studies in project management in a work-study program at IAE Paris and Natixis. Through these experiences, I worked on the management of artificial intelligence projects and wrote a master's thesis on the challenge of banks to evolve towards a data-driven strategy. 
+My will to specialise in data science led me to move to Canada where I am currently completing a master's degree at Polytechnique Montreal.
+You'll find on this site a summary of my various IT projects. 
