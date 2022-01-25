@@ -61,9 +61,7 @@ experience:
         Internal contributions to the firm:
         * Benchmarks: consumer credit, digital services of banking applications banking applications
         * Study on the impacts of Brexit on corporate and investment banks investment banks
-
-Translated with www.DeepL.com/Translator (free version)
-        
+    
   - title: Treasurer and Project Manager
     company: AMJE Lille
     company_url: 'https://amje-lille.fr/'
@@ -91,6 +89,7 @@ Translated with www.DeepL.com/Translator (free version)
       * Assembly operations
       * Automation of production planning (VBA)
       * Implementation of areas dedicated to Lean Management
+      
 design:
   columns: '2'
 ---
