@@ -57,6 +57,9 @@ Les viz doivent répondre à la question principale "Comment ont évolué les ge
 
 **Extrait des visualisations**
 
+{{< gallery album="cinematheque" resize_options="250x250" >}}
+
+
 [>> Site du projet <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
 *Sources des données - Cinémathèque Québécoise*
