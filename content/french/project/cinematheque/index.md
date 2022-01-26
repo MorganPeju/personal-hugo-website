@@ -1,6 +1,6 @@
 ---
 title: L’évolution des genres cinématographiques
-summary: An example of using the in-built project page.
+summary: Projet de visualisation avec la Cinémathèque Québécoise
 tags:
 - Viz
 - Python
@@ -9,7 +9,7 @@ tags:
 date: "2021-04-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://inf8808-cinematheque-final.herokuapp.com/"
 
 image:
   caption: Extrait du projet
