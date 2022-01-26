@@ -57,14 +57,19 @@ Les viz doivent répondre à la question principale "Comment ont évolué les ge
 
 **Extrait des visualisations**
 
+Chacune des visualisations est dynamique avec des intéractions possibles (filtre, hover, etc.) et à fait l'objet de réfléxion sur le choix du type de graphique.
+
+*cliquez pour agrandir*
 {{< gallery album="cinematheque" resize_options="200x200" >}}
 
 
+                                         -----
+
 [>> Site du projet <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
-*Sources des données - Cinémathèque Québécoise*
+Sources des données - Cinémathèque Québécoise
 
-*Outils - Python, Plotly, Github, Heroku*
+Outils - Python, Plotly, Github, Heroku
 
 
 
