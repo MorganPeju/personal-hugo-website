@@ -125,12 +125,12 @@ comments:
   commentable:
     post: false
     book: false
-    project: true
+    project: false
     publication: false
     event: false
   disqus:
     shortname: ''
-    show_count: true
+    show_count: false
   commento:
     url: ''
 search:

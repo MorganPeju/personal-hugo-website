@@ -9,7 +9,7 @@ tags:
 date: "2021-04-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://inf8808-cinematheque-final.herokuapp.com/"
+external_link: ""
 
 image:
   caption: Extrait du projet
@@ -32,6 +32,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+[>> Site du projet <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
 Au fil des années, le cinéma s’est affirmé parmi les arts du spectacle et occupe aujourd’hui une place prépondérante dans la culture. Considérées comme mémoire culturelle, les oeuvres cinématographiques présentent des caractéristiques et métriques complexes qui sont
 compliquées à suivre au cours du temps. En général, on distingue plusieurs catégories :
