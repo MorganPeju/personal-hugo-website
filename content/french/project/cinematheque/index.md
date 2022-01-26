@@ -12,7 +12,7 @@ date: "2021-04-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Extrait du projet
   focal_point: Smart
 
 links:
@@ -30,10 +30,9 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
-![Where is my image ?](projet-cinematheque-header.png "Extrait  - Sunburst du catalogue de la Cinémathèque Québécoise par genre")
 
 [>> Site du projet <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
@@ -59,9 +58,8 @@ Les viz doivent répondre à la question principale "Comment ont évolué les ge
 
 Chacune des visualisations est dynamique avec des intéractions possibles (filtre, hover, etc.) et à fait l'objet de réfléxion sur le choix du type de graphique.
 
-*cliquez pour agrandir*
 {{< gallery album="cinematheque" resize_options="200x200" >}}
-
+*Cliquez pour agrandir*
 
                                          -----
 
