@@ -32,7 +32,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-[>> Project's site <<](https://inf8808-cinematheque-final.herokuapp.com/)
+[>> Project site <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
 Au fil des années, le cinéma s’est affirmé parmi les arts du spectacle et occupe aujourd’hui une place prépondérante dans la culture. Considérées comme mémoire culturelle, les oeuvres cinématographiques présentent des caractéristiques et métriques complexes qui sont
 compliquées à suivre au cours du temps. En général, on distingue plusieurs catégories :
@@ -61,7 +61,7 @@ Chacune des visualisations est dynamique avec des intéractions possibles (filtr
 
                                          -----
 
-[>> Project's site <<](https://inf8808-cinematheque-final.herokuapp.com/)
+[>> Project site <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
 Data source - Cinémathèque Québécoise
 
