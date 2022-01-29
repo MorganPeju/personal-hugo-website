@@ -35,7 +35,6 @@ url_video: ""
 [>> Site du projet <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
 Ce projet a été réalisé en équipe et en collaboration avec la Cinémathèque Québécoise.
-
                                          -----
 
 **Objectif du projet**
