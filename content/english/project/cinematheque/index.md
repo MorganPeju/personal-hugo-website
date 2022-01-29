@@ -49,7 +49,7 @@ Notes:
 
 The visualizations are intended to answer the main question "How have film genres evolved over time?" and then a set of sub-questions detailed below.
 
-![Where is my image ?](projet-cinematheque-question.png "Questions auxquelles répondent les visualisations")
+![Where is my image ?](projet-cinematheque-question.png "Questions answered by the visualizations")
 
                                          -----
 
