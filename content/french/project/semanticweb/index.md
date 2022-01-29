@@ -86,7 +86,7 @@ Aperçu de l'ontologie et d'un scénario de développement :
 Outils - Protege, OWL, Turtle
 
 [1] [Logique descriptive](https://fr.wikipedia.org/wiki/Logique_de_description)    
-[2] Image tirée de la documentation de [Cambridge Semantics ](https://docs.cambridgesemantics.com/anzo/v4.3/userdoc/models-intro.htm) 
+[2] Image tirée de la documentation de [Cambridge Semantics ](https://docs.cambridgesemantics.com/anzo/v4.3/userdoc/models-intro.htm)              
 [3] Méthdode itérative [SAMOD](https://essepuntato.it/samod/)  
 
 
