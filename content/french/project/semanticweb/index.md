@@ -52,7 +52,7 @@ De plus, une information n'est pas statique, elle évolue dans le temps : elle p
 
 L'un des outils du web sémantique est l'ontologie. Une ontologie est une description formelle d'un domaine de connaissances. Autrement dit, il s'agit d'une liste de termes et de relations entre ces termes. Les termes définis sont également appelés "classes". Le langage OWL permet de modéliser une ontologie en respectant une logique descriptive [1].
 
-Voici un exemple minimal d'une ontologie:
+Voici un exemple minimal d'une ontologie :
 ![Where is my image ?](projet-ontology-definition.png "Exemple d'ontologie de film[2]")
 
 On décrit ici qu'un film possède un titre, un budget, une date, un réalisateur. Ce réalisateur a lui-même un nom, une date de naissance, etc.
@@ -77,7 +77,7 @@ La méthode itérative utilisée, SAMOD, implique de construire l'ontologie pas 
 
 De plus, l'ontologie doit être développée de manière consistante, c'est-à-dire que pour chaque concept, il peut exister au moins un individu membre de cette classe. Par exemple, si on définit le concept de grimpeur comme étant à la fois une sous-classe des classes PERSONNE et OBJET et qu'on spécifie aussi que ces deux classes sont disjointes (c’est-à-dire qu’aucune entité ne peut à la fois être une PERSONNE et un OBJET), on se retrouve alors avec un concept inconsistant. 
 
-Aperçu de l'ontologie et d'un scénario de développement:
+Aperçu de l'ontologie et d'un scénario de développement :
 {{< gallery album="ontology" resize_options="200x200" >}}
 *Cliquez pour agrandir*
 
@@ -87,6 +87,7 @@ Outils - Protege, OWL, Turtle
 
 [1] [Logique descriptive](https://fr.wikipedia.org/wiki/Logique_de_description)    
 [2] Image tirée de la documentation de [Cambridge Semantics ](https://docs.cambridgesemantics.com/anzo/v4.3/userdoc/models-intro.htm) 
+
 [3] Méthdode itérative [SAMOD](https://essepuntato.it/samod/)  
 
 
