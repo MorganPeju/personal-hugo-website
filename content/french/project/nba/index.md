@@ -57,11 +57,7 @@ statistiques de matchs (nombre de matchs joués, minutes jouées, tirs effectué
 Voici une synthèse des résultats:
 ![Where is my image ?](projet-nba-results.png "Taux d'erreur des modèles")
 
-Comme expliqué précédemment, nous avons vu que le modèle de régression logistique offrait
-une performance légèrement meilleure que les autres modèles. De manière générale, l’ensemble
-des modèles développés ont un taux d’erreur d’environ 30%. Cela signifie qu’on est capable de
-prédire correctement dans 70% des cas si un rookie aura une carrière d’au moins 5ans ou non
-en NBA.
+Le modèle de régression logistique offre une performance légèrement meilleure que les autres modèles. De manière générale, l’ensemble des modèles développés ont un taux d’erreur d’environ 30%. Cela signifie qu’on est capable de prédire correctement dans 70% des cas si un rookie aura une carrière d’au moins 5ans ou non en NBA.
 
                                          -----
 **Extrait - Arbre de décision**
