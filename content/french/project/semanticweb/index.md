@@ -37,9 +37,9 @@ url_video: ""
 
 Le web sémantique avait pour ambition d’améliorer le web actuel afin que les machines puissent traiter les informations qui y circulent, les comprendre et nous aider à découvrir de nouvelles connaissances. La proposition initiale était de former un grand système distribué pour partager des données plutôt que des documents et ainsi former des bases de connaissances. Puisque le Web est d’abord un Web de documents (fichiers HTML, etc.), la tâche s’avère ardue de transformer chacun de ces documents en données. Toutefois, cette technologie n’a pas pour vocation de remplacer l’existant mais plutôt d’adopter une approche de superposition, où l’on va venir virtualiser les informations déjà disponibles puis les relier entre différents systèmes connectés.
 
-Bien évidemment, le Web sémantique fait écho aux bases de données mais contrairement à elles, la recherche sur le Web sémantique s’est plus particulièrement axée sur l'intégration de sources hétérogènes car celui gère bien la grande variété des données. D’autre part, on peut également l’associer au NLP (Natural Language Processing ou le traitement de langage naturel). Cet outil permet par exemple de donner des réponses aux requêtes en langage naturel ou inversement: formuler des requêtes à partir du langage naturel. C’est notamment en cela que le Web Sémantique s’associe très bien avec d’autres domaines comme le Big Data et l’Intelligence Artificielle.
+Bien évidemment, le Web sémantique fait écho aux bases de données mais contrairement à elles, la recherche sur le Web sémantique s’est plus particulièrement axée sur l'intégration de sources hétérogènes car celui gère bien la grande variété des données. D’autre part, on peut également l’associer au NLP (*Natural Language Processing* ou le traitement de langage naturel). Cet outil permet par exemple de donner des réponses aux requêtes en langage naturel ou inversement: formuler des requêtes à partir du langage naturel. C’est notamment en cela que le Web Sémantique s’associe très bien avec d’autres domaines comme le Big Data et l’Intelligence Artificielle.
 
-Les géants du Web et de la Tech ont bien évidemment pris part dans le Web sémantique. Google, Microsoft, Yahoo et Yandex ont mutualisé leurs efforts pour développer Schema.org, une solution qui vise à promouvoir les données structurées dans les pages Web à l'aide un vocabulaire commun. Ainsi, les moteurs de recherche peuvent fournir des informations plus riches aux utilisateurs lors de leur navigation grâce à ces données. 
+Les géants du Web et de la Tech ont bien évidemment pris part dans le Web sémantique. Google, Microsoft, Yahoo et Yandex ont mutualisé leurs efforts pour développer [Schema.org](https://schema.org/), une solution qui vise à promouvoir les données structurées dans les pages Web à l'aide un vocabulaire commun. Ainsi, les moteurs de recherche peuvent fournir des informations plus riches aux utilisateurs lors de leur navigation grâce à ces données. 
 
 ![Where is my image ?](projet-ontology-google.png "Recherche sémantique sur Google")
 
@@ -87,7 +87,7 @@ Outils - Protege, OWL, Turtle
 
 [1] [Logique descriptive](https://fr.wikipedia.org/wiki/Logique_de_description)    
 [2] Image tirée de la documentation de [Cambridge Semantics ](https://docs.cambridgesemantics.com/anzo/v4.3/userdoc/models-intro.htm) 
-
 [3] Méthdode itérative [SAMOD](https://essepuntato.it/samod/)  
+
 
 
