@@ -34,19 +34,21 @@ url_video: ""
 ---
 [>> Site du projet <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
-Au fil des années, le cinéma s’est affirmé parmi les arts du spectacle et occupe aujourd’hui une place prépondérante dans la culture. Considérées comme mémoire culturelle, les oeuvres cinématographiques présentent des caractéristiques et métriques complexes qui sont
-compliquées à suivre au cours du temps. En général, on distingue plusieurs catégories :
-action, comédie, drame, fantastique, science-fiction, guerre, etc. Le genre cinématographique n’est pas exclusif et il est ardu de limiter un film à un unique genre. 
+Ce projet a été réalisé en équipe et en collaboration avec la Cinémathèque Québécoise.
 
                                          -----
 
-**Objectif du projet - Retracer l’évolution des genres cinématographiques au cours du temps**
+**Objectif du projet**
+L'objectif principal de ce projet a été d'utiliser les données du catalogue d'oeuvres de la Cinémathèqe Québécoise pour produire un ensemble de visualisations intéractives. L'axe d'analyse que nous avons choisi a été de retracer l’évolution des genres cinématographiques à travers le temps. 
 
-En équipe et en collaboration avec la Cinémathèque Québécoise nous avons souhaité mettre en avant le contenu de son catalogue à travers différentes visualisations. A travers ce projet nous pensons avoir contribué à apporter des clés d’analyse et de compréhension. 
+Pour cela, nous avons développé un certain nombre de visualisations avec un rendu pensé comme un site web “scrolly-telling” où on descend en granularité d'informations. C’est par l’utilisation de graphiques interactifs que l’utilisateur peut explorer l’évolution des genres du cinéma sous plusieurs aspects, notamment selon les types de production (films, vidéos, TV) et les personnalités du Cinéma récompensées. Une visualisation des genres cinématographiques par régions/pays du monde a également été effectuée, permettant ainsi de mener une réflexion sur la disparité des genres à l’échelle mondiale. Ainsi, cet outil permet en évidence le dynamisme de la production d'oeuvres cinématographiques à travers le temps.
 
-Pour cela, nous avons développé un certain nombre de visualisations pour répondre à notre problématique. Le rendu a été pensé comme un site web "scrolly-telling". C’est par l’utilisation de graphiques interactifs que l’utilisateur peut explorer l’évolution des genres du cinéma sous plusieurs aspects, notamment selon les types de production (film, court métrage, TV, etc.) et les réalisateur.ice.s/acteur.ice.s récompensé.e.s . Une visualisation des genres cinématographiques selon la localisation géographique a également été effectuée, permettant ainsi de mener une investigation sur la disparité des genres à l’échelle mondiale. Ainsi, cet outil permet en évidence le dynamisme des oeuvres cinématographiques à travers le temps. 
+Notes:
+- L'ensemble du projet a été réalisé avec Python et Plotly.
+- Un grand travail a été effectué en amont du développement pour préparer les données car nous disposions de 6 jeux de données (200 000 lignes en moyenne) avec de nombreux attributs et données manquantes. 
+- Nous avons fait le choix de limiter le nombre de genres cinématographiques à 12 : Action, Animation, Amour, Aventure, Autres, Comédie, Crime, Documentaire, Drame, Historique, Musical, Science-Fiction.
 
-Les viz doivent répondre à la question principale "Comment ont évolué les genres cinématographiques à travers le temps ?" puis à un ensemble de sous-questions. Celles-ci sont détaillées ci-dessous.
+Les visualisations ont pour but de répondre à la question principale “Comment ont évolué les genres cinématographiques à travers le temps ?” puis à un ensemble de sous-questions détaillées ci-dessous.
 
 ![Where is my image ?](projet-cinematheque-question.png "Questions auxquelles répondent les visualisations")
 
@@ -54,7 +56,8 @@ Les viz doivent répondre à la question principale "Comment ont évolué les ge
 
 **Extrait des visualisations**
 
-Chacune des visualisations est dynamique avec des intéractions possibles (filtre, hover, etc.) et à fait l'objet de réfléxion sur le choix du type de graphique.
+Chacune des visualisations a fait l'objet de réfléxions sur la meilleure représentation graphique à adopter, tout en tenant compte des possibilités offertes par Plotly.
+Les intéractions possibles (filtre, hover, etc.) apportent des éléments des détails de compréhension supplémentaires.
 
 {{< gallery album="cinematheque" resize_options="200x200" >}}
 *Cliquez pour agrandir*
@@ -63,7 +66,9 @@ Chacune des visualisations est dynamique avec des intéractions possibles (filtr
 
 [>> Site du projet <<](https://inf8808-cinematheque-final.herokuapp.com/)
 
-Sources des données - Cinémathèque Québécoise
+Equipe - M.BHOGAL, F. TIRERA, G.LABERGE, J. DESMARAIS, P. DALLY-BELANGER, M. PEJU
+
+Source des données - Cinémathèque Québécoise
 
 Outils - Python, Plotly, Github, Heroku
 
