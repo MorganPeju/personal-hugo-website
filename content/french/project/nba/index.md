@@ -75,7 +75,7 @@ En revanche, si un rookie a joué moins de 61 matchs alors il a une probabilité
 
                                          -----
 
-[>> Github du projet <<]()
+[>> Github du projet <<](https://github.com/MorganPeju/ml-nba-proj)
 
 Source des données - [Data World](https://data.world/exercises/logistic-regression-exercise-1)
 
