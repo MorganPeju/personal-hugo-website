@@ -37,7 +37,7 @@ url_video: ""
 This project was realized in team and in collaboration with the Cinémathèque Québécoise.
                                          -----
 
-**Goal of the project**
+**Goal of the project** : 
 The main objective of this project was to use data from the Cinémathèqe Québécoise's catalog to produce a set of interactive visualizations. We chose was to trace the evolution of film genres through time. 
 
 To do so, we developed a number of visualizations with a rendering thought as a "scrolly-telling" website where we go down in details. Through the use of interactive graphics, the user can explore the evolution of film genres in several aspects, according to the type of production (films, videos, TV) and personalities awarded. A visualization of film genres by regions/countries of the world has also been made, allowing for an analysis on the disparity of genres on a global scale. Thus, this tool highlights the dynamism of the production of cinematographic works through time.
