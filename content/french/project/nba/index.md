@@ -36,7 +36,7 @@ Ce projet s'inscrit dans mon parcours de maîtrise à Polytechnique Montréal da
 
 **Objectif du projet** : Déterminer si la carrière d’un rookie sera une réussite, i.e que sa carrière durera au moins 5 ans, à l'aide de différentes méthodes statistiques d'apprentissage.
 
-**Pourquoi ?** La National Basketball Association (NBA) est la plus connue des ligues de basket-ball au monde qui compte 30 équipes. Les joueurs de NBA sont des athlètes de très haut niveau et font partie des sportifs les mieux payés au monde avec un salaire moyen de $7.7 millions de dollars en 2020. La NBA représente ainsi l’objectif ultime de tout joueur de basket. Chaque année, au mois de juin, a lieu la Draft. Il s’agit d’un événement où toutes les équipes se réunissent et choisissent jusqu’à deux joueurs issus de l’université ou de l’étranger pour rejoindre leur rang. Les joueurs sélectionnés disputeront alors leur première saison en NBA, on les nomme les Rookies. 
+**Pourquoi ?** La National Basketball Association (NBA) est la plus connue des ligues de basket-ball au monde qui compte 30 équipes. Les joueurs de NBA sont des athlètes de très haut niveau et font partie des sportifs les mieux payés au monde avec un salaire moyen de $7.7 millions de dollars en 2020[1]. La NBA représente ainsi l’objectif ultime de tout joueur de basket. Chaque année, au mois de juin, a lieu la Draft. Il s’agit d’un événement où toutes les équipes se réunissent et choisissent jusqu’à deux joueurs issus de l’université ou de l’étranger pour rejoindre leur rang. Les joueurs sélectionnés disputeront alors leur première saison en NBA, on les nomme les Rookies. 
 
 Avec seulement 60 nouveaux joueurs par an, de nombreux candidats chaque année et le risque de faire partie d’une équipe mais de ne pas jouer, la carrière d’un joueur de NBA est plus qu’incertaine à ses débuts. Il s’agit également d’un enjeu pour les coachs et les équipes afin de pérenniser leur équipe et de la faire évoluer au plus haut niveau. Il est admis que l'on considère qu’un rookie a réussi son intégration en NBA et promis à une belle carrière si celui-ci est encore présent 5 ans après son draft.
 
@@ -69,7 +69,7 @@ L’avantage d’utiliser un arbre de décision est qu’on peut visualiser et i
 
 ![Where is my image ?](projet-nba-tree.png "Arbre de décision")
 
-*Exemple d’interprétation :*
+**_Exemple d’interprétation :_**
 *Si un rookie a joué plus de 61 match et qu’il a effectué moins de 1.1 rebond défensif en moyenne par match mais qu’il a joué plus de 76 matchs, alors la probabilité d’avoir une carrière d’au moins 5 ans en NBA est de 95%.
 En revanche, si un rookie a joué moins de 61 matchs alors il a une probabilité de 47% d’avoir une carrière de moins de 5 ans en NBA.*
 
@@ -81,7 +81,7 @@ Source des données - [Data World](https://data.world/exercises/logistic-regress
 
 Outils - R, RStudio
 
-*1 [CNBC](https://www.cnbc.com/2019/10/22/highest-paid-players-in-the-nba-right-now.html)*
+*[1] [CNBC](https://www.cnbc.com/2019/10/22/highest-paid-players-in-the-nba-right-now.html)*
 
 
 
