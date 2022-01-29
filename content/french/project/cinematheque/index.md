@@ -39,9 +39,9 @@ Ce projet a été réalisé en équipe et en collaboration avec la Cinémathèqu
                                          -----
 
 **Objectif du projet**
-L'objectif principal de ce projet a été d'utiliser les données du catalogue d'oeuvres de la Cinémathèqe Québécoise pour produire un ensemble de visualisations intéractives. L'axe d'analyse que nous avons choisi a été de retracer l’évolution des genres cinématographiques à travers le temps. 
+L'objectif principal de ce projet a été d'utiliser les données du catalogue d'œuvres de la Cinémathèque Québécoise pour produire un ensemble de visualisations interactives. L'axe d'analyse que nous avons choisi a été de retracer l’évolution des genres cinématographiques à travers le temps. 
 
-Pour cela, nous avons développé un certain nombre de visualisations avec un rendu pensé comme un site web “scrolly-telling” où on descend en granularité d'informations. C’est par l’utilisation de graphiques interactifs que l’utilisateur peut explorer l’évolution des genres du cinéma sous plusieurs aspects, notamment selon les types de production (films, vidéos, TV) et les personnalités du Cinéma récompensées. Une visualisation des genres cinématographiques par régions/pays du monde a également été effectuée, permettant ainsi de mener une réflexion sur la disparité des genres à l’échelle mondiale. Ainsi, cet outil permet en évidence le dynamisme de la production d'oeuvres cinématographiques à travers le temps.
+Pour cela, nous avons développé un certain nombre de visualisations avec un rendu pensé comme un site web “scrolly-telling” où on descend en granularité d'informations. C’est par l’utilisation de graphiques interactifs que l’utilisateur peut explorer l’évolution des genres du cinéma sous plusieurs aspects, notamment selon les types de production (films, vidéos, TV) et les personnalités du Cinéma récompensées. Une visualisation des genres cinématographiques par régions/pays du monde a également été effectuée, permettant ainsi de mener une réflexion sur la disparité des genres à l’échelle mondiale. Ainsi, cet outil permet en évidence le dynamisme de la production d'œuvres cinématographiques à travers le temps.
 
 Notes:
 - L'ensemble du projet a été réalisé avec Python et Plotly.
@@ -56,8 +56,8 @@ Les visualisations ont pour but de répondre à la question principale “Commen
 
 **Extrait des visualisations**
 
-Chacune des visualisations a fait l'objet de réfléxions sur la meilleure représentation graphique à adopter, tout en tenant compte des possibilités offertes par Plotly.
-Les intéractions possibles (filtre, hover, etc.) apportent des éléments des détails de compréhension supplémentaires.
+Chacune des visualisations a fait l'objet de réflexions sur la meilleure représentation graphique à adopter, tout en tenant compte des possibilités offertes par Plotly.
+Les interactions possibles (filtre, hover, etc.) apportent des éléments des détails de compréhension supplémentaires.
 
 {{< gallery album="cinematheque" resize_options="200x200" >}}
 *Cliquez pour agrandir*
