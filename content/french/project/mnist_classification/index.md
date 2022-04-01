@@ -1,6 +1,6 @@
 ---
 title: Classification d'objets
-summary: Classification d'objets par régression logistique et perceptron multicouche (réseau de neurones)
+summary: Régression logistique et perceptron multicouche (réseau de neurones)
 tags:
 - Python
 - ML
@@ -41,7 +41,7 @@ Pour répondre à cet objectif, j'ai utilisé l’algorithme de descente de grad
                                          -----
 **Aperçu des données**
 
-L'ensemble de données utilisé est "Fashion MNIST" qui contient 70 000 images en niveaux de gris répartie en 10 catégories. Il s'agit de photos de vêtements en basse résolution (28 x 28 pixels). La base de données a été utilisée comme suit:
+L'ensemble de données utilisé est "Fashion MNIST" qui contient 70 000 images en niveaux de gris réparties en 10 catégories. Il s'agit de photos de vêtements en basse résolution (28 x 28 pixels). La base de données a été utilisée comme suit:
 - 54 000 images pour l'entrainement des modèles
 - 6 000 images pour la validation
 - 10 000 images pour l'ensemble de test
@@ -50,6 +50,7 @@ L'ensemble de données utilisé est "Fashion MNIST" qui contient 70 000 images e
 
                                          -----
 **Régression logistique et algorithme de descente de gradient stochastique par mini-ensemble**
+
 L'idée derrière la descente de gradient est de minimiser une fonction de perte. La fonction de perte évalue la différence entre les prédictions faites par l'algorithme et la valeur réelle. En cherchant à la minimiser, cela signifie que nous essayons de faire des prédictions qui soient les plus proches des valeurs réelles. Dans notre cas d'application ici, on cherchera à ce que le modèle prédise la bonne classe d'objet pour une photo donnée que l'on comparera avec la vraie classe de l'objet.
 
 Voici une vidéo de la chaine StatQuest présentant la technique de descente de gradient stochastique:
@@ -58,11 +59,12 @@ Voici une vidéo de la chaine StatQuest présentant la technique de descente de 
 
 Il existe différentes méthodes pour effectuer l'actualisation des paramètres du modèle. Dans ce projet, j'ai utilisé l'actualisation classique de la descente de gradient stochastique que j'ai comparé à la méthode d'actualisation ADAM [2] qui permet d'accélérer la descente de gradient. 
 
+
 Fonctions du modèle:
 - Fonction de sortie  : Softmax
 - Fonction de perte : Log-vraisemblance négative
 
-_Aperçu des résultats: ADAM_
+__Aperçu des résultats: ADAM__
 
 En utilisant la méthode ADAM pour l’actualisation, j’ai pu obtenir les résultats de précisions suivants en fonction de la taille du batch et du taux d’apprentissage :
 ![Where is my image ?](projet-mnistclass-tab_reglog.png "Tableau pour la précision sur l'ensemble de validation en fonction du taux d'apprentissage et de la taille du batch")
@@ -75,7 +77,8 @@ On remarque que notre modèle apprend bien. En effet, à l’epoch 0, le modèle
 
 ![Where is my image ?](projet-mnistclass-perceptron.png "Architecture du perceptron multicouches")
 
-Considérons maintenant un réseau de neurones avec une couche d’entrée avec D = 784 unités, L couches cachées, chacune avec N neurones et un vecteur de sortie y de dimension K=10. 
+Considérons maintenant un réseau de neurones avec une couche d’entrée avec D = 784 unités, L couches cachées, chacune avec N neurones et un vecteur de sortie y de dimension K=10 classes. 
+
 Fonctions du modèle:
 - Fonction de sortie  : Softmax
 - Fonction de perte : Entropie croisée multiclasse
@@ -83,10 +86,10 @@ Fonctions du modèle:
 
 Ma démonstration pour le calcul du gradient est disponible sur le [Github du projet](https://github.com/MorganPeju/Probabilistic_AI/tree/main/Classification_Logistic_Regression)
 
-_Pseudo-code de la rétropropagation du gradient_
+__Pseudo-code de la rétropropagation du gradient__
 ![Where is my image ?](projet-mnistclass-pseudocode.png "Pseudo-code de la rétropropagation du gradient")
 
-_Aperçu des résultats : ADAM_
+__Aperçu des résultats : ADAM__
 
 En utilisant ADAM pour l’actualisation des poids du modèle, j’ai pu obtenir les résultats de précision suivants en fonction de la profondeur et largeur du réseau de neurones :
 ![Where is my image ?](projet-mnistclass-tab_NN.png "Tableau pour la précision sur l'ensemble de validation en fonction de la profondeur et largeur du réseau de neurones")
