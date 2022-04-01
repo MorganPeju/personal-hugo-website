@@ -49,7 +49,7 @@ L'ensemble de données utilisé est "Fashion MNIST" qui contient 70 000 images e
 ![Where is my image ?](projet-mnistclass-data.png "Aperçu du dataset")
 
                                          -----
-**Régression logistique et algorithme de descente de gradient stochastique par mini-ensemble**
+**Régression logistique et descente de gradient stochastique par mini-batch**
 
 L'idée derrière la descente de gradient est de minimiser une fonction de perte. La fonction de perte évalue la différence entre les prédictions faites par l'algorithme et la valeur réelle. En cherchant à la minimiser, cela signifie que nous essayons de faire des prédictions qui soient les plus proches des valeurs réelles. Dans notre cas d'application ici, on cherchera à ce que le modèle prédise la bonne classe d'objet pour une photo donnée que l'on comparera avec la vraie classe de l'objet.
 
@@ -89,7 +89,7 @@ Ma démonstration pour le calcul du gradient est disponible sur le [Github du pr
 __Pseudo-code de la rétropropagation du gradient__
 ![Where is my image ?](projet-mnistclass-pseudocode.png "Pseudo-code de la rétropropagation du gradient")
 
-###*Aperçu des résultats : ADAM*
+*Aperçu des résultats : ADAM*
 
 En utilisant ADAM pour l’actualisation des poids du modèle, j’ai pu obtenir les résultats de précision suivants en fonction de la profondeur et largeur du réseau de neurones :
 ![Where is my image ?](projet-mnistclass-tab_NN.png "Tableau pour la précision sur l'ensemble de validation en fonction de la profondeur et largeur du réseau de neurones")
