@@ -89,7 +89,7 @@ Ma démonstration pour le calcul du gradient est disponible sur le [Github du pr
 __Pseudo-code de la rétropropagation du gradient__
 ![Where is my image ?](projet-mnistclass-pseudocode.png "Pseudo-code de la rétropropagation du gradient")
 
-__Aperçu des résultats : ADAM__
+###*Aperçu des résultats : ADAM*
 
 En utilisant ADAM pour l’actualisation des poids du modèle, j’ai pu obtenir les résultats de précision suivants en fonction de la profondeur et largeur du réseau de neurones :
 ![Where is my image ?](projet-mnistclass-tab_NN.png "Tableau pour la précision sur l'ensemble de validation en fonction de la profondeur et largeur du réseau de neurones")
@@ -102,7 +102,7 @@ On remarque que notre modèle apprend bien. En effet, à l’epoch 0, le modèle
 
 **Conclusion**
 
-Ainsi, ce projet m'a permis de mettre en place l'algorithme de descente de gradient stochastique par mini-ensemble et de tester différentes méthodes d'actualisation de paramètres pour améliorer les modèles. Avec la méthode Adam, on obtient des résultats (en terme de précision) meilleurs qu’avec la méthode classique SGD (résultats disponible sur le [Github du projet](https://github.com/MorganPeju/Probabilistic_AI/tree/main/Classification_Logistic_Regression)). De plus, on notera qu’en ajoutant des couches cachées avec des neurones, la précision augmente passant des 80% de précision à ~87% . Finalement, on aura mis en évidence le performance de la régression logistique et des réseaux de neurones pour un problème de classification.
+Ainsi, ce projet m'a permis de mettre en place l'algorithme de descente de gradient stochastique par mini-ensemble et de tester différentes méthodes d'actualisation de paramètres pour améliorer les modèles. Avec la méthode Adam, on obtient des résultats (en terme de précision) meilleurs qu’avec la méthode classique SGD (résultats disponible sur le [Github du projet](https://github.com/MorganPeju/Probabilistic_AI/tree/main/Classification_Logistic_Regression)). De plus, on notera qu’en jouant sur le nombre de couches cachées et de neurones, la précision augmente jusqu'à atteindre ~87% . Finalement, on aura mis en évidence le performance de la régression logistique et des réseaux de neurones pour un problème de classification.
 
                                          -----
 
