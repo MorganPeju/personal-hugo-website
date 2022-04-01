@@ -89,7 +89,7 @@ Ma démonstration pour le calcul du gradient est disponible sur le [Github du pr
 __Pseudo-code de la rétropropagation du gradient__
 ![Where is my image ?](projet-mnistclass-pseudocode.png "Pseudo-code de la rétropropagation du gradient")
 
-*Aperçu des résultats : ADAM*
+**Aperçu des résultats : ADAM**
 
 En utilisant ADAM pour l’actualisation des poids du modèle, j’ai pu obtenir les résultats de précision suivants en fonction de la profondeur et largeur du réseau de neurones :
 ![Where is my image ?](projet-mnistclass-tab_NN.png "Tableau pour la précision sur l'ensemble de validation en fonction de la profondeur et largeur du réseau de neurones")
