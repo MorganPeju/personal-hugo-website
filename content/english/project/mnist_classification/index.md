@@ -113,4 +113,4 @@ Tools - Python, Pytorch, Google Colab
 
 [1] Photo by [Lum3n](https://www.pexels.com/fr-fr/@lum3n-44775?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/fr-fr/photo/vue-en-contre-plongee-des-chaussures-322207/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
-[2] ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION, D. Kingma & J. Ba (2015), disponible en ligne : https://arxiv.org/pdf/1412.6980.pdf
+[2] ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION, D. Kingma & J. Ba (2015), available online : https://arxiv.org/pdf/1412.6980.pdf
