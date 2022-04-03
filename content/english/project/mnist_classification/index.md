@@ -53,7 +53,7 @@ The dataset used is "Fashion MNIST" which contains 70,000 grayscale images divid
 
 The idea behind gradient descent is to minimize a loss function. The loss function evaluates the difference between the predictions made by the algorithm and the actual value. By trying to minimize it, it means that we try to make predictions that are as close as possible to the real values. In our case here, we will try to have the model predict the right class of object for a given photo that we will compare with the real class of the object.
 
-Here's a video from StatQuest youtube channel presenting the stochastic gradient descent technique:
+Here's a video from StatQuest Youtube channel presenting the stochastic gradient descent technique:
 
 {{< youtube sDv4f4s2SB8 >}}
 
