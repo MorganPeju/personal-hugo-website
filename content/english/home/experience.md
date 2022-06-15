@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data scientist - Intern
+    company: Sibius
+    company_url: 'https://www.sibius.eu/'
+    company_logo: natixis
+    location: Lyon, France
+    date_start: '2022-05-01'
+    description: |2- 
+        Achievements:
+        * ON GOING...
+       
   - title: Digital Project Manager - Intern
     company: Natixis
     company_url: 'https://www.natixis.com/'
