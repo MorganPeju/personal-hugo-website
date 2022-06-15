@@ -25,7 +25,7 @@ experience:
   - title: Data scientist - Intern
     company: Sibius
     company_url: 'https://www.sibius.eu/'
-    company_logo: natixis
+    company_logo: sibius
     location: Lyon, France
     date_start: '2022-05-01'
     description: |2- 
