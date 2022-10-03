@@ -22,12 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Scientifique des données - CDI
+    company: Sibius
+    company_url: 'https://fr.sibius.eu/'
+    company_logo: sibius
+    location: Lyon, France
+    date_start: '2022-10-03'
+    description: |2- 
+        Réalisations:
+        * EN COURS...
+       
   - title: Scientifique des données - Stage
     company: Sibius
     company_url: 'https://fr.sibius.eu/'
     company_logo: sibius
     location: Lyon, France
     date_start: '2022-05-01'
+    date_end: '2022-08-31'
     description: |2- 
         Réalisations:
         * EN COURS...
