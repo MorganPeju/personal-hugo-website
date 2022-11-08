@@ -20,8 +20,8 @@ social:
     icon_pack: fab
     link: https://github.com/MorganPeju
 organizations:
-  - name: Polytechnique Montréal
-    url: https://www.polymtl.ca/programmes/programmes/option-ingenierie-et-analytique-des-donnees
+  - name: Sibius
+    url: https://www.sibius.eu/
 education:
   courses:
     - course: MEng in Data Science
