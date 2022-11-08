@@ -1,6 +1,6 @@
 ---
 title: Morgan Péju
-role: Engineer x Student in Data Science
+role: Engineer - Data Scientist
 bio: Engineer specialised in data science and entrepreneurship.
 interests:
   - "Data Science"
