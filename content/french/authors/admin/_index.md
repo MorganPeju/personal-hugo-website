@@ -1,7 +1,7 @@
 ---
 title: Morgan Péju
-role: Ingénieur x Étudiant en Science des données
-bio: Ingénieur spécialisé en science des données et entrepreneuriat .
+role: Ingénieur en science des données
+bio: Ingénieur spécialisé en science des données et entrepreneuriat.
 interests:
   - "Science des données"
   - "Écologie et Low-Tech"
