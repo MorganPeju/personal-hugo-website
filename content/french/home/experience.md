@@ -84,7 +84,7 @@ experience:
         * Amélioration et développement d’outils de pilotage et de reporting (VBA)
         
         Contributions internes:
-        * Benchmarks: rédit à la consommation, services digitaux d’applications bancaires
+        * Benchmarks: crédit à la consommation, services digitaux d’applications bancaires
         * Étude sur les impacts du Brexit sur les banques de financement et d’investissement
 
   - title: Trésorier et Chef de projets
