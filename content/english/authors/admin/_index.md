@@ -5,7 +5,7 @@ bio: Engineer specialised in data science and entrepreneurship.
 interests:
   - "Data Science"
   - "Ecology and Low-Tech"
-  - "Sports"
+  - "Trekking, Snowboarding, Swimming, ..."
   - "Cinema"
 social:
   - display:
