@@ -31,6 +31,10 @@ experience:
     description: |2- 
         Réalisations:
         * EN COURS...
+        * DevOps: Poursuite de la mise en place d'une architecture et de processus de développement IT dans le cloud 
+        * DevOps: Automatisation des processus de développement (Git, AWS, Slack, Jenkins)
+        * DevOps: Cadrage de l'architecture et mise en place d'une stratégie d'automatisation de tests des applications web et mobile (Selenium, Appium)
+        * Développement d'une plateforme web de suivi (full-stack)
        
   - title: Scientifique des données - Stage
     company: Sibius
@@ -41,7 +45,13 @@ experience:
     date_end: '2022-08-31'
     description: |2- 
         Réalisations:
-        * EN COURS...
+        * Mise en place d'outils de gestion de projets (Notion + Slack)
+        * Cadrage et mise en place d'une architecture et de processus de développement IT dans le cloud (Git, AWS, Slack)
+        * Veille sur les troubles cognitifs et le rôle du suivi oculaire dans la détection des troubles
+        * Création d'une documentation sur la base de données
+        * Analyses des jeux de données
+        * Développement d'algorithmes d'apprentissage-machine pour la détection de troubles 
+        * Aide à la rédaction de protocoles de tests de détection de troubles cognitifs
 
   - title: Chef de projets digitaux - Alternance
     company: Natixis
