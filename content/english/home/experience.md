@@ -31,6 +31,10 @@ experience:
     description: |2- 
         Achievements:
         * ON GOING...
+        * DevOps: Continued implementation of IT development architecture and processes in the cloud 
+        * DevOps: Automation of development processes (Git, AWS, Slack, Jenkins)
+        * DevOps: Project assessment on the architecture and implementation of a test automation strategy for web and mobile applications (Selenium, Appium)
+        * Development of a web monitoring platform (Full Stack)
         
   - title: Data scientist - Intern
     company: Sibius
@@ -41,7 +45,13 @@ experience:
     date_end: '2022-08-31'
     description: |2- 
         Achievements:
-        * ON GOING...
+        * Implementation of project management tools (Notion + Slack)
+        * Setting up an architecture and IT development process in the cloud (Git, AWS, Slack)
+        * Information monitoring on cognitive disorders and the role of eye-tracking in detecting disorders
+        * Creation of a data documentation
+        * Analysis of the data sets
+        * Development of machine learning algorithms for the detection of cognitive disorders 
+        * Assistance in writing protocols for cognitive disorder detection tests
        
   - title: Digital Project Manager - Intern
     company: Natixis
