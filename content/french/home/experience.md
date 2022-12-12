@@ -34,7 +34,7 @@ experience:
         * DevOps: Poursuite de la mise en place d'une architecture et de processus de développement IT dans le cloud 
         * DevOps: Automatisation des processus de développement (Git, AWS, Slack, Jenkins)
         * DevOps: Cadrage de l'architecture et mise en place d'une stratégie d'automatisation de tests des applications web et mobile (Selenium, Appium)
-        * Développement d'une plateforme web de suivi (full-stack)
+        * Développement d'une plateforme web de suivi (Full Stack)
        
   - title: Scientifique des données - Stage
     company: Sibius
