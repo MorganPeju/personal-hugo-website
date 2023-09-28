@@ -29,12 +29,26 @@ experience:
     location: Lyon, France
     date_start: '2022-10-03'
     description: |2- 
-        Achievements:
-        * ON GOING...
-        * DevOps: Continued implementation of IT development architecture and processes in the cloud 
-        * DevOps: Automation of development processes (Git, AWS, Slack, Jenkins)
-        * DevOps: Project assessment on the architecture and implementation of a test automation strategy for web and mobile applications (Selenium, Appium)
-        * Development of a web monitoring platform (Full Stack)
+        My role is to ensure the development of SIBIUS' technological platform
+        
+        🤝 Management
+        * Technology project management (scoping, development, monitoring, documentation).
+        * HR support (recruitment and support of interns).
+        * Participation in company development (ideation, areas for improvement, communication).
+        
+        📊 Data
+        * Data management : data collection, cleansing, processing, analysis.
+        * Securing data flows.
+        * R&D on algorithms for detecting behavioral atypicalities (Machine Learning).
+        
+        🧑‍💻 Development
+        * Management of technological architecture evolution.
+        * Set up and manage development, test and production environments.
+        * Design applications (UX/UI: workshops, Figma, Visily).
+        * Full-stack development of mobile application on iOS and Android (Flutter).
+        * Full-stack development of a web monitoring platform (Django).
+        * Backend management (AWS S3, RDS Postgresql, EC2, ECR, Lambda, API Gateway).
+        * Development of continuous integration and deployment processes (Git, Slack, Cloud Formation).
         
   - title: Data scientist - Intern
     company: Sibius
