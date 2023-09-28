@@ -110,7 +110,7 @@ experience:
     date_end: '2018-06-30'
     description: |2-
     
-        Réalisations :
+        Réalisations
         * Refonte de l’association, recrutement d’une équipe de 15 personnes
         * Gestion associative, gestion de budget, comptabilité (CA: 15k€ sur un an)
         * Pilotage de projets, recrutement, négociation de contrats
