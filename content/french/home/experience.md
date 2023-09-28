@@ -29,12 +29,23 @@ experience:
     location: Lyon, France
     date_start: '2022-10-03'
     description: |2- 
-        Réalisations:
-        * EN COURS...
-        * DevOps: Poursuite de la mise en place d'une architecture et de processus de développement IT dans le cloud 
-        * DevOps: Automatisation des processus de développement (Git, AWS, Slack, Jenkins)
-        * DevOps: Cadrage de l'architecture et mise en place d'une stratégie d'automatisation de tests des applications web et mobile (Selenium, Appium)
-        * Développement d'une plateforme web de suivi (Full Stack)
+        Mon rôle est d'assurer le développement de la plateforme technologique de SIBIUS
+        🤝 Gestion
+        * Pilotage des projets technologiques (cadrage, développement, suivi, documentation).
+        * Accompagnement RH (recrutement et accompagnement de stagiaires).
+        * Participation à l'évolution d'entreprise (idéation, axes d'amélioration, communication).
+        📊 Données
+        * Gestion des données: collecte de données, nettoyage, traitements, analyses.
+        * Sécuriser les flux de données.
+        * R&D sur des algorithmes de détection d'atypicités comportementales (Machine Learning).
+        🧑‍💻 Développement
+        * Gestion de l'évolution de l'architecture technologique.
+        * Mise en place et gestion des environnements de développement, de test et de production.
+        * Maquetter les applications (UX/UI : ateliers, Figma, Visily).
+        * Développement Full-Stack de l'application mobile sur iOS et Android (Flutter).
+        * Développement Full-Stack d'une plateforme web de gestion et de suivi (Django, Dash/Plotly).
+        * Gestion du backend (AWS S3, RDS Postgresql, EC2, ECR, Lambda, API Gateway).
+        * Développement des processus d'intégration continue et de déploiement continu (Git, Slack, Cloud Formation).
        
   - title: Scientifique des données - Stage
     company: Sibius
@@ -44,7 +55,7 @@ experience:
     date_start: '2022-05-01'
     date_end: '2022-08-31'
     description: |2- 
-        Réalisations:
+        Réalisations 👇
         * Mise en place d'outils de gestion de projets (Notion + Slack)
         * Cadrage et mise en place d'une architecture et de processus de développement IT dans le cloud (Git, AWS, Slack)
         * Veille sur les troubles cognitifs et le rôle du suivi oculaire dans la détection des troubles
@@ -61,7 +72,7 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-09-01'
     description: |2- 
-        Réalisations:
+        Réalisations 👇
         * Suivi des projets Data et d’Intelligence Artificielle
         * Mise en place d'ateliers d'idéation et identification de partenaires
         * Sélection des projets sur la base d'une étude de faisabilité
@@ -78,7 +89,7 @@ experience:
     date_start: '2018-09-01'
     date_end: '2019-02-28'
     description: |2-
-        Réalisations :
+        Réalisations 👇
         * Audit de contrats d’affacturage (Natixis Factor)
         * Test d’applications bancaires (La Banque Postale)
         * Amélioration et développement d’outils de pilotage et de reporting (VBA)
@@ -112,7 +123,7 @@ experience:
     date_end: '2017-04-30'
     description: |2-
       Mission : Participer aux opérations de montage de moteurs d’avions civils et militaires
-      Réalisations:
+      Réalisations👇
       * Opérations d’assemblage
       * Automatisation des planning de production (VBA)
       * Mise en place d’espaces dédiés au Lean Management
