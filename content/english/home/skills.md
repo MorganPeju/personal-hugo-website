@@ -10,12 +10,12 @@ feature:
     icon_pack: fas
     name: Project Management
   - description: null
+    icon: database
+    icon_pack: fas
+    name: Data engineering
+  - description: null
     icon: python
     icon_pack: fab
     name: Python
-  - description: null
-    icon: r-project
-    icon_pack: fab
-    name: R
 widget_id: skills
 ---
