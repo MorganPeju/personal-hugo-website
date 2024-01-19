@@ -15,7 +15,7 @@ date: "2023-11-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Extrait du projet
+  caption: Nature Communications - Digit-tracking as a new tactile interface for visual perception analysis
   focal_point: Smart
 
 links:
