@@ -41,7 +41,7 @@ url_video: ""
 
 Fondée en 2019 à partir de travaux issus de l’Institut des Sciences Cognitives Marc Jeannerod du CNRS, SIBIUS développait une application dans le domaine de la santé pour la détection précoce et l’amélioration de la prise en charge des troubles cognitifs tels que l’autisme, Alzheimer, troubles de l’attention. En s’appuyant sur la technologie brevetée du Digitrack, SIBIUS avait pour ambition de créer le premier marqueur objectif des troubles du neurodéveloppement grâce à une solution simple et non invasive.
 
-Les données collectées par SIBIUS en partenariat avec le CNRS permettent l’élaboration d’algorithmes et de modèles d’apprentissage machine afin de distinguer les explorations d’un sujet neurotypique d’un sujet neuroatypique. La base de données actuelle contient plus de 40 000 explorations d'images effectuées par plus de 1 300 sujets neurotypiques ou neuroatypiques.
+Les données collectées par SIBIUS en partenariat avec le CNRS permettent l’élaboration d’algorithmes et de modèles d’apprentissage machine afin de distinguer les explorations d’un sujet neurotypique d’un sujet neuroatypique. La base de données contient plus de 40 000 explorations d'images effectuées par plus de 1 300 sujets neurotypiques ou neuroatypiques.
 
 Labellisée « Deep Tech » par BPIFrance, organisme français de financement et de développement des entreprises, SIBIUS a plusieurs fois été récompensée, notamment par le prix « Start-up » au Congrès français de psychiatrie en décembre 2019, ainsi que par le prix du jury lors de la Journée « start-up innovantes » organisée en 2021 par le Syndicat National de l'Industrie des Technologies Médicales (SNITEM).
 
