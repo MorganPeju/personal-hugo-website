@@ -20,8 +20,8 @@ social:
     icon_pack: fab
     link: https://github.com/MorganPeju
 organizations:
-  - name: Sibius
-    url: https://www.sibius.eu/
+  - name: 
+    url: 
 education:
   courses:
     - course: Maîtrise en Science des données
@@ -39,6 +39,6 @@ highlight_name: true
 ---
 Ingénieur généraliste diplômé des Arts et Métiers ParisTech en 2019, j'ai ensuite poursuivi mes études en management de projets en alternance à l'IAE Paris et Natixis. A travers ces expériences, j'ai travaillé au pilotage de projets d'intelligence artificielle et écrit un mémoire sur l'enjeu des banques à évoluer vers une stratégie orientée sur les données. 
 
-Après une volonté de spécialisation technique, je me suis installé au Canada pour obtenir une maîtrise en science des données à Polytechnique Montréal. De retour en France, j'ai fait le choix de m'investir dans un projet porteur de sens. C'est pourquoi je travaille actuellement chez Sibius, une entreprise née à l'issue de travaux de recherches du CNRS sur la détection précoce de troubles cognitifs.
+Après une volonté de spécialisation technique, je me suis installé au Canada pour obtenir une maîtrise en science des données à Polytechnique Montréal. De retour en France, j'ai fait le choix de m'investir dans un projet porteur de sens. C'est pourquoi j'ai travaillé près de 2 ans chez Sibius et le CNRS sur la détection précoce de troubles cognitifs.
 
 Vous trouverez sur ce site un résumé de mes différents projets informatiques. 
