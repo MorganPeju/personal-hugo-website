@@ -1,6 +1,6 @@
 ---
 title: Détection précoce de troubles cognitifs
-summary: Collaboration CNRS/SIBIUS : Solutionn 100% numérique de détection précoce de troubles cognitifs
+summary: Collaboration CNRS/SIBIUS : Solution numérique de détection précoce de troubles cognitifs
 tags:
 - CNRS
 - SIBIUS
