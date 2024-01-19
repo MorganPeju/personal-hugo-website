@@ -28,6 +28,7 @@ experience:
     company_logo: sibius
     location: Lyon, France
     date_start: '2022-10-03'
+    date_end: '2023-11-15'
     description: |2- 
         Mon rôle est d'assurer le développement de la plateforme technologique de SIBIUS
     
