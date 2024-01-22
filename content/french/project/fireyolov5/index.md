@@ -1,5 +1,5 @@
 ---
-title: Détection de feux de fôret
+title: Détection de feux de forêt
 summary: Projet de vision par ordinateur pour la détection de fumée avec YOLOv5
 tags:
 - Python
@@ -37,7 +37,7 @@ Ce projet s’inscrit dans mon parcours de maîtrise à Polytechnique Montréal 
 En cours de rédaction...
 
                                          -----
-
+{{< embed-pdf url="./path/to/pdf/file/example.pdf" >}}
 
 
                                          -----
