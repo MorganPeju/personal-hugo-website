@@ -33,11 +33,11 @@ url_video: ""
 
 Ce projet s’inscrit dans mon parcours de maîtrise à Polytechnique Montréal dans le cadre du cours "I.A.:TECH. PROBABILISTES ET D'APPRENTISSAGE".
                                          -----
-
+links:
 url_pdf: "fireyolov5.pdf"
                                          -----
 
-Equipe - C. Ka Hei, R. Lesperance, G. POUPART, M. PEJU
+Equipe - C. KA HEI, R. LESPERANCE, G. POUPART, M. PEJU
 
 Source des données -  [HPWREN](https://hpwren.ucsd.edu/), [AI For Mankind](https://aiformankind.org/)
 
