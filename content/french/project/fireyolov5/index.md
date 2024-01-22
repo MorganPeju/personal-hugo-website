@@ -34,7 +34,7 @@ url_video: ""
 Ce projet s’inscrit dans mon parcours de maîtrise à Polytechnique Montréal dans le cadre du cours "I.A.:TECH. PROBABILISTES ET D'APPRENTISSAGE".
                                          -----
                                          
-{{% staticref "fireyolov5.pdf" "newtab" %}}Voir l'article{{% /staticref %}}
+{{% staticref "project/fireyolov5/fireyolov5.pdf" "newtab" %}}>> Voir l'article <<{{% /staticref %}}
 
                                          -----
 
