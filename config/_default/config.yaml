@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Morgan Péju # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '© Morgan Péju 2022' 
+baseurl: 'https://morganpeju.netlify.app/' # Website URL
+copyright: '© Morgan Péju 2023' 
 # Footer text, e.g. '© {year} Me'
 
 ############################
