@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Machine Learning
     tag: ML
+  - name: Mobile
+    tag: Mobile
   - name: Viz
     tag: Viz
   - name: Autres
