@@ -28,8 +28,9 @@ experience:
     company_logo: sibius
     location: Lyon, France
     date_start: '2022-10-03'
+    date_end: '2023-11-15'
     description: |2- 
-        My role is to ensure the development of SIBIUS' technological platform
+        My role was to ensure the development of SIBIUS' technological platform
         
         🤝 Management
         * Technology project management (scoping, development, monitoring, documentation).
