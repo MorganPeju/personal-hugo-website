@@ -37,7 +37,6 @@ Ce projet s’inscrit dans mon parcours de maîtrise à Polytechnique Montréal 
 En cours de rédaction...
 
                                          -----
-{{< embed-pdf url="fireyolov5_article.pdf" >}}
 ici
 
 
