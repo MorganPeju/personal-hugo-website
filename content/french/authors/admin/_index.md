@@ -1,6 +1,6 @@
 ---
 title: Morgan Péju
-role: Ingénieur en science des données
+role: Ingénieur - Data Scientist
 bio: Ingénieur spécialisé en science des données et gestion de projets.
 interests:
   - "Science des données"
