@@ -19,7 +19,7 @@ links:
 #  name: Follow
 #  url:
 url_code: ""
-url_pdf: "fireyolov5_article.pdf"
+url_pdf: "fireyolov5.pdf"
 url_slides: ""
 url_video: ""
 
