@@ -34,12 +34,7 @@ url_video: ""
 Ce projet s’inscrit dans mon parcours de maîtrise à Polytechnique Montréal dans le cadre du cours "I.A.:TECH. PROBABILISTES ET D'APPRENTISSAGE".
                                          -----
 
-En cours de rédaction...
-
-                                         -----
-ici
-
-
+url_pdf: "fireyolov5.pdf"
                                          -----
 
 Equipe - C. Ka Hei, R. Lesperance, G. POUPART, M. PEJU
