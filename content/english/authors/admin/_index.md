@@ -1,12 +1,12 @@
 ---
 title: Morgan Péju
 role: Engineer - Data Scientist
-bio: Engineer specialised in data science and entrepreneurship.
+bio: Engineer specialised in data science and project management.
 interests:
   - "Data Science"
-  - "Ecology and Low-Tech"
   - "Trekking, Trail running, Bikepacking, Snowboarding, Swimming"
   - "Cinema"
+  - "Ecology and Low-Tech"
 social:
   - display:
       header: false
@@ -39,6 +39,6 @@ highlight_name: true
 ---
 In 2019, I graduated with a combined BSc/MSc in Mechanical Engineering from Arts et Métiers ParisTech. I then pursued my studies in project management in a work-study program at IAE Paris and Natixis. Through these experiences, I worked on the management of artificial intelligence projects and wrote a master's thesis on the challenge of banks to evolve towards a data-driven strategy. 
 
-My will to specialise in data science led me to move to Canada where I graduated a master's degree at Polytechnique Montreal. Back in France, I decided to work on a meaningful project. That's why I am currently working at Sibius, a company created following the work of the French National Center for Scientific Research (CNRS) on the early detection of cognitive disorders.
+My will to specialise in data science led me to move to Canada where I graduated a master's degree at Polytechnique Montreal. Back in France, I decided to work on a meaningful project. That's why I worked for almost 2 years at Sibius and the French National Center for Scientific Research (CNRS) on the early detection of cognitive disorders.
 
 You'll find on this site a summary of my various IT projects.
